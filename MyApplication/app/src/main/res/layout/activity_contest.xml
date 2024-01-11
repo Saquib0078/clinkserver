@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContestActivity"
+   >
+<androidx.recyclerview.widget.RecyclerView
+    android:id="@+id/contextrecview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:listitem="@layout/item_contest"
+    app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/_35sdp"
+    android:clipToPadding="false"/>
+
+
+
+        <Button
+            android:id="@+id/createteam"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="create team"
+            android:textColor="@color/white"
+
+            android:background="@drawable/buttonshape"
+                 android:layout_alignParentBottom="true"
+            android:visibility="gone"
+            android:layout_margin="@dimen/_10sdp"
+            />
+</RelativeLayout>

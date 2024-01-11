@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "project_number": "386468320609",
+    "firebase_url": "https://cricketapp-6820f-default-rtdb.firebaseio.com",
+    "project_id": "cricketapp-6820f",
+    "storage_bucket": "cricketapp-6820f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386468320609:android:a090979b2f2a94cb3b6120",
+        "android_client_info": {
+          "package_name": "com.cricket.cricketapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386468320609-t15kifoq382g6dgfh88gtbhkvjlddv6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cricket.cricketapp",
+            "certificate_hash": "70058f3235cf1a63bcef239750c1cb4a37522d39"
+          }
+        },
+        {
+          "client_id": "386468320609-1s61o23k9e576iqvs891f6npadd93fdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJgAZ-EdwUKwza2vLy9-I_nWKDtqNrqPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386468320609-1s61o23k9e576iqvs891f6npadd93fdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386468320609:android:334434c7f4e75bb83b6120",
+        "android_client_info": {
+          "package_name": "com.cricket.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386468320609-1s61o23k9e576iqvs891f6npadd93fdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJgAZ-EdwUKwza2vLy9-I_nWKDtqNrqPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386468320609-1s61o23k9e576iqvs891f6npadd93fdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386468320609:android:25f45e72fe0374993b6120",
+        "android_client_info": {
+          "package_name": "com.example.mytabdemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386468320609-79ogqgolvido0vilj9c8p8uji3g1h13a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mytabdemoapp",
+            "certificate_hash": "70058f3235cf1a63bcef239750c1cb4a37522d39"
+          }
+        },
+        {
+          "client_id": "386468320609-1s61o23k9e576iqvs891f6npadd93fdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJgAZ-EdwUKwza2vLy9-I_nWKDtqNrqPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386468320609-1s61o23k9e576iqvs891f6npadd93fdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386468320609:android:a4193dbde65bf6773b6120",
+        "android_client_info": {
+          "package_name": "com.gameofskill.ketan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386468320609-1s61o23k9e576iqvs891f6npadd93fdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJgAZ-EdwUKwza2vLy9-I_nWKDtqNrqPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386468320609-1s61o23k9e576iqvs891f6npadd93fdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386468320609:android:869db63d21dcfc2f3b6120",
+        "android_client_info": {
+          "package_name": "com.pegalite.quadlerpayment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386468320609-1s61o23k9e576iqvs891f6npadd93fdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJgAZ-EdwUKwza2vLy9-I_nWKDtqNrqPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386468320609-1s61o23k9e576iqvs891f6npadd93fdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
